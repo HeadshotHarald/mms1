@@ -1,0 +1,28 @@
+/* Hintergrund und Schrift */
+body {
+  background-color: #1a1a2e;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+/* Große Überschrift */
+h1 {
+  color: #e94560;
+  font-size: 48px;
+}
+
+/* Kleinere Überschrift */
+h2 {
+  color: #0f3460;
+  background-color: #e94560;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Links */
+a {
+  color: #e94560;
+}
